@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <title>Hoja de Personaje</title>
+</head>
+<body>
+  <h1>Hoja de Personaje</h1>
+  <p>La extensión está viva 🎉</p>
+
+  <script src="index.js"></script>
+</body>
+</html>

@@ -1,0 +1,9 @@
+{
+  "id": "hoja-personaje-amanautor",
+  "name": "Hoja de Personaje",
+  "version": "0.1.0",
+  "description": "Hoja de personaje con tiradas personalizadas",
+  "author": "Tu Mesa",
+  "icon": "icon.png",
+  "entry": "index.html"
+}
